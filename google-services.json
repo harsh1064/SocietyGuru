@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "146882431875",
+    "project_id": "societyguru-4d335",
+    "storage_bucket": "societyguru-4d335.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:146882431875:android:e23736051e4a9ac75b04b6",
+        "android_client_info": {
+          "package_name": "com.example.societyguru"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "146882431875-0oddf7e3demfdg8o2o46t0mi1hpcm54a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4G-qo_OqX39Ds3pPy8B9FroMZbFOGVbg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "146882431875-0oddf7e3demfdg8o2o46t0mi1hpcm54a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
